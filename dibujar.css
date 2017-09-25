@@ -1,6 +1,6 @@
 body {
   font-family: "Dancing Script", cursive;
-  font-size: 21px;
+  font-size: 11px;
   background: rgba(255, 0, 198, 0.4);
 }
 
@@ -18,14 +18,17 @@ body {
 .hermanos {
   height: 925px;
   width: 1824px;
+  margin-left: -108px
 }
 
 .info-post {
   background: rgba(246, 165, 247, 0.47);
   padding: 2em 4em;
   position: absolute;
-  left: 342px;
-  bottom: -30px;
+  left: 409px;
+  bottom: -277px;
+  width: 480px;
+  height: 140px;
 }
 
 h2 {
@@ -58,7 +61,7 @@ p {
 }
 
 .videos {
-  margin-left: 453px;
+  margin-left: 171px;
   display: inline-block;
   margin-top: 80px;
 }
@@ -80,6 +83,7 @@ p {
 
 .gala {
   margin-right: 20px;
+  height: 517px
 }
 
 .logotipo {
