@@ -1,6 +1,7 @@
 body {
-  font-family: 'Pacifico', cursive;
-  background-image: url('./gala.gif');
+  font-family: "Dancing Script", cursive;
+  font-size: 21px;
+  background: rgba(255, 0, 198, 0.4);
 }
 
 .contenedor_1 {
@@ -15,8 +16,8 @@ body {
 }
 
 .hermanos {
-  height: 802px;
-  width: 1318px;
+  height: 925px;
+  width: 1824px;
 }
 
 .info-post {
@@ -24,7 +25,7 @@ body {
   padding: 2em 4em;
   position: absolute;
   left: 342px;
-  bottom: -146px;
+  bottom: -30px;
 }
 
 h2 {
@@ -57,7 +58,7 @@ p {
 }
 
 .videos {
-  margin-left: 100px;
+  margin-left: 453px;
   display: inline-block;
   margin-top: 80px;
 }
@@ -70,4 +71,18 @@ p {
 .neko {
   width: 460px;
   height: 505px;
+  margin-right: 20px;
+}
+
+.eru {
+  margin-right: 20px;
+}
+
+.gala {
+  margin-right: 20px;
+}
+
+.logotipo {
+  height: 68px;
+  width: 179px;
 }
